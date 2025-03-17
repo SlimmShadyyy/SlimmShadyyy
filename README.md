@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SlimmShadyyy
+- 👋 Hi, I’m Ananniya Acharya
 - 👀 I’m interested in application related to IOT.
 - 🌱 I’m currently learning programming languages like c++ and python.
 - 💞️ I’m looking to collaborate on projects related to IOT.
